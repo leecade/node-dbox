@@ -32,12 +32,12 @@
     "url": "https://github.com/sintaxi/node-dbox.git"
   },
   "dependencies": {
-    "request": "2.9.153"
+    "request": "2.78.0"
   },
   "devDependencies": { 
-    "mocha": "1.0.3",
-    "should": "0.6.3",
-    "prompt": "0.1.12"
+    "mocha": "3.1.2",
+    "should": "11.1.1",
+    "prompt": "1.0.0"
   },
   "engines": { "node": "*" },
   "licenses" : [
